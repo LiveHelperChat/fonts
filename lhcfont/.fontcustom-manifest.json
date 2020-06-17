@@ -1,0 +1,149 @@
+{
+  "checksum": {
+    "previous": "b5362f6874a4bf54da6c4994e0022a9bc21884e6553070ce1d5f06ae17d1bc21",
+    "current": "b5362f6874a4bf54da6c4994e0022a9bc21884e6553070ce1d5f06ae17d1bc21"
+  },
+  "fonts": [
+    "MaterialIcons-lhc/MaterialIcons-lhc.ttf",
+    "MaterialIcons-lhc/MaterialIcons-lhc.svg",
+    "MaterialIcons-lhc/MaterialIcons-lhc.woff",
+    "MaterialIcons-lhc/MaterialIcons-lhc.eot",
+    "MaterialIcons-lhc/MaterialIcons-lhc.woff2"
+  ],
+  "glyphs": {
+    "ic_account_box_24px": {
+      "codepoint": 61709,
+      "source": "my/vectors/ic_account_box_24px.svg"
+    },
+    "ic_arrow_drop_down_24px": {
+      "codepoint": 61699,
+      "source": "my/vectors/ic_arrow_drop_down_24px.svg"
+    },
+    "ic_attach_file_24px": {
+      "codepoint": 61710,
+      "source": "my/vectors/ic_attach_file_24px.svg"
+    },
+    "ic_close_24px": {
+      "codepoint": 61706,
+      "source": "my/vectors/ic_close_24px.svg"
+    },
+    "ic_cloud_download_24px": {
+      "codepoint": 61721,
+      "source": "my/vectors/ic_cloud_download_24px.svg"
+    },
+    "ic_edit_24px": {
+      "codepoint": 61718,
+      "source": "my/vectors/ic_edit_24px.svg"
+    },
+    "ic_face_24px": {
+      "codepoint": 61700,
+      "source": "my/vectors/ic_face_24px.svg"
+    },
+    "ic_fiber_manual_record_24px": {
+      "codepoint": 61711,
+      "source": "my/vectors/ic_fiber_manual_record_24px.svg"
+    },
+    "ic_hourglass_empty_24px": {
+      "codepoint": 61715,
+      "source": "my/vectors/ic_hourglass_empty_24px.svg"
+    },
+    "ic_image_24px": {
+      "codepoint": 61716,
+      "source": "my/vectors/ic_image_24px.svg"
+    },
+    "ic_link_24px": {
+      "codepoint": 61717,
+      "source": "my/vectors/ic_link_24px.svg"
+    },
+    "ic_menu_24px": {
+      "codepoint": 61701,
+      "source": "my/vectors/ic_menu_24px.svg"
+    },
+    "ic_mic_none_24px": {
+      "codepoint": 61707,
+      "source": "my/vectors/ic_mic_none_24px.svg"
+    },
+    "ic_notifications_24px": {
+      "codepoint": 61720,
+      "source": "my/vectors/ic_notifications_24px.svg"
+    },
+    "ic_open_in_new_24px": {
+      "codepoint": 61702,
+      "source": "my/vectors/ic_open_in_new_24px.svg"
+    },
+    "ic_phone_in_talk_24px": {
+      "codepoint": 61719,
+      "source": "my/vectors/ic_phone_in_talk_24px.svg"
+    },
+    "ic_play_arrow_24px": {
+      "codepoint": 61713,
+      "source": "my/vectors/ic_play_arrow_24px.svg"
+    },
+    "ic_print_24px": {
+      "codepoint": 61708,
+      "source": "my/vectors/ic_print_24px.svg"
+    },
+    "ic_send_24px": {
+      "codepoint": 61703,
+      "source": "my/vectors/ic_send_24px.svg"
+    },
+    "ic_settings_24px": {
+      "codepoint": 61696,
+      "source": "my/vectors/ic_settings_24px.svg"
+    },
+    "ic_stop_24px": {
+      "codepoint": 61714,
+      "source": "my/vectors/ic_stop_24px.svg"
+    },
+    "ic_thumb_down_24px": {
+      "codepoint": 61704,
+      "source": "my/vectors/ic_thumb_down_24px.svg"
+    },
+    "ic_thumb_up_24px": {
+      "codepoint": 61705,
+      "source": "my/vectors/ic_thumb_up_24px.svg"
+    },
+    "ic_volume_off_24px": {
+      "codepoint": 61697,
+      "source": "my/vectors/ic_volume_off_24px.svg"
+    },
+    "ic_volume_up_24px": {
+      "codepoint": 61698,
+      "source": "my/vectors/ic_volume_up_24px.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
+    "css_selector": ".i-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "MaterialIcons-lhc",
+    "force": false,
+    "input": {
+      "templates": "my/vectors",
+      "vectors": "my/vectors"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "MaterialIcons-lhc",
+      "fonts": "MaterialIcons-lhc",
+      "preview": "MaterialIcons-lhc"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "MaterialIcons-lhc/MaterialIcons-lhc.css",
+    "MaterialIcons-lhc/MaterialIcons-lhc-preview.html"
+  ]
+}

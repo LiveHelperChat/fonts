@@ -1,0 +1,90 @@
+/*
+  Icon Font: MaterialIcons-lhc
+*/
+
+@font-face {
+  font-family: "MaterialIcons-lhc";
+  src: url("./MaterialIcons-lhc.eot");
+  src: url("./MaterialIcons-lhc.eot?#iefix") format("embedded-opentype"),
+       url("./MaterialIcons-lhc.woff2") format("woff2"),
+       url("./MaterialIcons-lhc.woff") format("woff"),
+       url("./MaterialIcons-lhc.ttf") format("truetype"),
+       url("./MaterialIcons-lhc.svg#MaterialIcons-lhc") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "MaterialIcons-lhc";
+    src: url("./MaterialIcons-lhc.svg#MaterialIcons-lhc") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.i-ic_account_box_24px:before,
+.i-ic_arrow_drop_down_24px:before,
+.i-ic_attach_file_24px:before,
+.i-ic_close_24px:before,
+.i-ic_cloud_download_24px:before,
+.i-ic_edit_24px:before,
+.i-ic_face_24px:before,
+.i-ic_fiber_manual_record_24px:before,
+.i-ic_hourglass_empty_24px:before,
+.i-ic_image_24px:before,
+.i-ic_link_24px:before,
+.i-ic_menu_24px:before,
+.i-ic_mic_none_24px:before,
+.i-ic_notifications_24px:before,
+.i-ic_open_in_new_24px:before,
+.i-ic_phone_in_talk_24px:before,
+.i-ic_play_arrow_24px:before,
+.i-ic_print_24px:before,
+.i-ic_send_24px:before,
+.i-ic_settings_24px:before,
+.i-ic_stop_24px:before,
+.i-ic_thumb_down_24px:before,
+.i-ic_thumb_up_24px:before,
+.i-ic_volume_off_24px:before,
+.i-ic_volume_up_24px:before {
+  display: inline-block;
+  font-family: "MaterialIcons-lhc";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.i-ic_account_box_24px:before { content: "\f10d"; }
+.i-ic_arrow_drop_down_24px:before { content: "\f103"; }
+.i-ic_attach_file_24px:before { content: "\f10e"; }
+.i-ic_close_24px:before { content: "\f10a"; }
+.i-ic_cloud_download_24px:before { content: "\f119"; }
+.i-ic_edit_24px:before { content: "\f116"; }
+.i-ic_face_24px:before { content: "\f104"; }
+.i-ic_fiber_manual_record_24px:before { content: "\f10f"; }
+.i-ic_hourglass_empty_24px:before { content: "\f113"; }
+.i-ic_image_24px:before { content: "\f114"; }
+.i-ic_link_24px:before { content: "\f115"; }
+.i-ic_menu_24px:before { content: "\f105"; }
+.i-ic_mic_none_24px:before { content: "\f10b"; }
+.i-ic_notifications_24px:before { content: "\f118"; }
+.i-ic_open_in_new_24px:before { content: "\f106"; }
+.i-ic_phone_in_talk_24px:before { content: "\f117"; }
+.i-ic_play_arrow_24px:before { content: "\f111"; }
+.i-ic_print_24px:before { content: "\f10c"; }
+.i-ic_send_24px:before { content: "\f107"; }
+.i-ic_settings_24px:before { content: "\f100"; }
+.i-ic_stop_24px:before { content: "\f112"; }
+.i-ic_thumb_down_24px:before { content: "\f108"; }
+.i-ic_thumb_up_24px:before { content: "\f109"; }
+.i-ic_volume_off_24px:before { content: "\f101"; }
+.i-ic_volume_up_24px:before { content: "\f102"; }
