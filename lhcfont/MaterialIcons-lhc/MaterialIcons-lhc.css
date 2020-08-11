@@ -35,6 +35,7 @@
 .i-ic_hourglass_empty_24px:before,
 .i-ic_image_24px:before,
 .i-ic_link_24px:before,
+.i-ic_mail_outline_24px:before,
 .i-ic_menu_24px:before,
 .i-ic_mic_none_24px:before,
 .i-ic_notifications_24px:before,
@@ -48,7 +49,8 @@
 .i-ic_thumb_down_24px:before,
 .i-ic_thumb_up_24px:before,
 .i-ic_volume_off_24px:before,
-.i-ic_volume_up_24px:before {
+.i-ic_volume_up_24px:before,
+.i-lhc:before {
   display: inline-block;
   font-family: "MaterialIcons-lhc";
   font-style: normal;
@@ -74,6 +76,7 @@
 .i-ic_hourglass_empty_24px:before { content: "\f113"; }
 .i-ic_image_24px:before { content: "\f114"; }
 .i-ic_link_24px:before { content: "\f115"; }
+.i-ic_mail_outline_24px:before { content: "\f11a"; }
 .i-ic_menu_24px:before { content: "\f105"; }
 .i-ic_mic_none_24px:before { content: "\f10b"; }
 .i-ic_notifications_24px:before { content: "\f118"; }
@@ -88,3 +91,4 @@
 .i-ic_thumb_up_24px:before { content: "\f109"; }
 .i-ic_volume_off_24px:before { content: "\f101"; }
 .i-ic_volume_up_24px:before { content: "\f102"; }
+.i-lhc:before { content: "\f11b"; }

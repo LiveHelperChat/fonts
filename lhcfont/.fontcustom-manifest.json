@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "b5362f6874a4bf54da6c4994e0022a9bc21884e6553070ce1d5f06ae17d1bc21",
-    "current": "b5362f6874a4bf54da6c4994e0022a9bc21884e6553070ce1d5f06ae17d1bc21"
+    "previous": "eb675a6714d6efae255434a76dc05b68291e36a0265b513fedac22772fe3806e",
+    "current": "eb675a6714d6efae255434a76dc05b68291e36a0265b513fedac22772fe3806e"
   },
   "fonts": [
     "MaterialIcons-lhc/MaterialIcons-lhc.ttf",
@@ -54,6 +54,10 @@
     "ic_link_24px": {
       "codepoint": 61717,
       "source": "my/vectors/ic_link_24px.svg"
+    },
+    "ic_mail_outline_24px": {
+      "codepoint": 61722,
+      "source": "my/vectors/ic_mail_outline_24px.svg"
     },
     "ic_menu_24px": {
       "codepoint": 61701,
@@ -110,6 +114,10 @@
     "ic_volume_up_24px": {
       "codepoint": 61698,
       "source": "my/vectors/ic_volume_up_24px.svg"
+    },
+    "lhc": {
+      "codepoint": 61723,
+      "source": "my/vectors/lhc.svg"
     }
   },
   "options": {
