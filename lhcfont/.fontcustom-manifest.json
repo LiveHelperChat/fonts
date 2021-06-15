@@ -1,82 +1,86 @@
 {
   "checksum": {
-    "previous": "795b27c499b38ce9776ae4f7233240bb7ac79540f250545014635045498041c8",
-    "current": "795b27c499b38ce9776ae4f7233240bb7ac79540f250545014635045498041c8"
+    "previous": "864928c12ce7145affc20c8d8eeb50b576606f309ff7050ed4e093a9575d7e49",
+    "current": "864928c12ce7145affc20c8d8eeb50b576606f309ff7050ed4e093a9575d7e49"
   },
   "fonts": [
-    "MaterialIcons-lhc/MaterialIcons-lhc.ttf",
-    "MaterialIcons-lhc/MaterialIcons-lhc.svg",
-    "MaterialIcons-lhc/MaterialIcons-lhc.woff",
-    "MaterialIcons-lhc/MaterialIcons-lhc.eot",
-    "MaterialIcons-lhc/MaterialIcons-lhc.woff2"
+    "MaterialIcons-lhc-v3/MaterialIcons-lhc-v3.ttf",
+    "MaterialIcons-lhc-v3/MaterialIcons-lhc-v3.svg",
+    "MaterialIcons-lhc-v3/MaterialIcons-lhc-v3.woff",
+    "MaterialIcons-lhc-v3/MaterialIcons-lhc-v3.eot",
+    "MaterialIcons-lhc-v3/MaterialIcons-lhc-v3.woff2"
   ],
   "glyphs": {
     "ic_account_box_24px": {
-      "codepoint": 61696,
+      "codepoint": 61709,
       "source": "my/vectors/ic_account_box_24px.svg"
     },
     "ic_attach_file_24px": {
-      "codepoint": 61697,
+      "codepoint": 61710,
       "source": "my/vectors/ic_attach_file_24px.svg"
     },
     "ic_close_24px": {
-      "codepoint": 61698,
+      "codepoint": 61706,
       "source": "my/vectors/ic_close_24px.svg"
     },
     "ic_cloud_download_24px": {
-      "codepoint": 61699,
+      "codepoint": 61721,
       "source": "my/vectors/ic_cloud_download_24px.svg"
     },
     "ic_edit_24px": {
-      "codepoint": 61700,
+      "codepoint": 61718,
       "source": "my/vectors/ic_edit_24px.svg"
     },
     "ic_face_24px": {
-      "codepoint": 61701,
+      "codepoint": 61700,
       "source": "my/vectors/ic_face_24px.svg"
     },
     "ic_fiber_manual_record_24px": {
-      "codepoint": 61702,
+      "codepoint": 61711,
       "source": "my/vectors/ic_fiber_manual_record_24px.svg"
     },
+    "ic_format_size_24px": {
+      "codepoint": 61725,
+      "source": "my/vectors/ic_format_size_24px.svg"
+    },
     "ic_hourglass_empty_24px": {
-      "codepoint": 61703,
+      "codepoint": 61715,
       "source": "my/vectors/ic_hourglass_empty_24px.svg"
     },
     "ic_image_24px": {
-      "codepoint": 61704,
+      "codepoint": 61716,
       "source": "my/vectors/ic_image_24px.svg"
     },
     "ic_link_24px": {
-      "codepoint": 61705,
+      "codepoint": 61717,
       "source": "my/vectors/ic_link_24px.svg"
     },
     "ic_mail_outline_24px": {
-      "codepoint": 61706,
+      "codepoint": 61722,
       "source": "my/vectors/ic_mail_outline_24px.svg"
     },
     "ic_menu_24px": {
-      "codepoint": 61707,
+      "codepoint": 61701,
       "source": "my/vectors/ic_menu_24px.svg"
     },
     "ic_mic_none_24px": {
-      "codepoint": 61708,
+      "codepoint": 61707,
       "source": "my/vectors/ic_mic_none_24px.svg"
     },
     "ic_minimize_24px": {
-      "codepoint": 61709,
+      "codepoint": 61724,
       "source": "my/vectors/ic_minimize_24px.svg"
     },
     "ic_notifications_24px": {
-      "codepoint": 61710,
+      "codepoint": 61720,
       "source": "my/vectors/ic_notifications_24px.svg"
     },
     "ic_open_in_new_24px": {
-      "codepoint": 61711,
+      "codepoint": 61702,
       "source": "my/vectors/ic_open_in_new_24px.svg"
     },
     "ic_phone_in_talk_24px": {
-      "codepoint": 61712,
+      "codepoint": 61719,
       "source": "my/vectors/ic_phone_in_talk_24px.svg"
     },
     "ic_play_arrow_24px": {
@@ -84,39 +88,39 @@
       "source": "my/vectors/ic_play_arrow_24px.svg"
     },
     "ic_print_24px": {
-      "codepoint": 61714,
+      "codepoint": 61708,
       "source": "my/vectors/ic_print_24px.svg"
     },
     "ic_send_24px": {
-      "codepoint": 61715,
+      "codepoint": 61703,
       "source": "my/vectors/ic_send_24px.svg"
     },
     "ic_settings_24px": {
-      "codepoint": 61716,
+      "codepoint": 61696,
       "source": "my/vectors/ic_settings_24px.svg"
     },
     "ic_stop_24px": {
-      "codepoint": 61717,
+      "codepoint": 61714,
       "source": "my/vectors/ic_stop_24px.svg"
     },
     "ic_thumb_down_24px": {
-      "codepoint": 61718,
+      "codepoint": 61704,
       "source": "my/vectors/ic_thumb_down_24px.svg"
     },
     "ic_thumb_up_24px": {
-      "codepoint": 61719,
+      "codepoint": 61705,
       "source": "my/vectors/ic_thumb_up_24px.svg"
     },
     "ic_volume_off_24px": {
-      "codepoint": 61720,
+      "codepoint": 61697,
       "source": "my/vectors/ic_volume_off_24px.svg"
     },
     "ic_volume_up_24px": {
-      "codepoint": 61721,
+      "codepoint": 61698,
       "source": "my/vectors/ic_volume_up_24px.svg"
     },
     "lhc": {
-      "codepoint": 61722,
+      "codepoint": 61723,
       "source": "my/vectors/lhc.svg"
     }
   },
@@ -131,7 +135,7 @@
     "font_descent": 64,
     "font_design_size": 16,
     "font_em": 512,
-    "font_name": "MaterialIcons-lhc",
+    "font_name": "MaterialIcons-lhc-v3",
     "force": false,
     "input": {
       "templates": "my/vectors",
@@ -139,9 +143,9 @@
     },
     "no_hash": true,
     "output": {
-      "css": "MaterialIcons-lhc",
-      "fonts": "MaterialIcons-lhc",
-      "preview": "MaterialIcons-lhc"
+      "css": "MaterialIcons-lhc-v3",
+      "fonts": "MaterialIcons-lhc-v3",
+      "preview": "MaterialIcons-lhc-v3"
     },
     "preprocessor_path": null,
     "quiet": false,
@@ -151,7 +155,7 @@
     ]
   },
   "templates": [
-    "MaterialIcons-lhc/MaterialIcons-lhc.css",
-    "MaterialIcons-lhc/MaterialIcons-lhc-preview.html"
+    "MaterialIcons-lhc-v3/MaterialIcons-lhc-v3.css",
+    "MaterialIcons-lhc-v3/MaterialIcons-lhc-v3-preview.html"
   ]
 }
